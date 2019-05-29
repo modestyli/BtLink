@@ -4,7 +4,7 @@ ___
 [MUI文档移步](http://dev.dcloud.net.cn/mui/ui/)
 
 ## 开发环境
-- MacOS
+- Windows
 - IDE: Android Studio
 
 ## App 效果浏览
